@@ -1,0 +1,35 @@
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: circular;
+
+  src: url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/CircularXXWeb-Book.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: circular;
+
+  src: url('chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/fonts/CircularXXWeb-Bold.woff2') format('woff2');
+}
+
+
+.elHeadlineWrapper[data-htype="headline"] {
+  font-family: "Yeseva One", Helvetica, sans-serif !important;
+}
+
+
+#tmp_headline1-66670-125 .elHeadline b {
+  color: rgb(228, 59, 44);
+}
+
+
+#tmp_paragraph-90719-123 .elHeadline b {
+  color: rgb(45, 45, 45);
+}
+
+
+#tmp_subheadline-31539-127 .elHeadline b {
+  color: rgb(45, 45, 45);
+}
